@@ -1,6 +1,6 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
+  "name": "WarIo(alpha)",
+  "version": "0.8.1-alpha",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "MVGames",
   "license": "CC0-1.0",
 
 
